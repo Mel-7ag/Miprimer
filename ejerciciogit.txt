@@ -1,3 +1,5 @@
 hola este es mi primer repositorio 
 
 este es mi segundo texto
+
+hola, no se como hacer commit
